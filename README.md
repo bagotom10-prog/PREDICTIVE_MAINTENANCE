@@ -8,7 +8,7 @@ An AI-powered Predictive Maintenance system (Industry 4.0) designed to anticipat
 
 The data used to train and evaluate this model comes from the **AI4I 2020 Predictive Maintenance Dataset**, a synthetic yet highly realistic dataset that closely reflects the operating conditions of industrial machinery in real manufacturing environments.
 
-* **Source Repository:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset) / Kaggle.
+* **Source Repository:** [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/AI4I+2020+Predictive+Maintenance+Dataset).
 * **Industrial Context:** The dataset simulates telemetry readings extracted from 10,000 machines on a production line, logging a total of 10,000 records with multiple physical and operational variables.
 * **Input Features:**
   * `Air temperature [K]`: Ambient temperature recorded around the machine environment.
@@ -56,6 +56,7 @@ This project avoids simplistic black-box models, implementing a complete Machine
 * **Joblib** (Artifact and model persistence)
 
 ---
+
 
 ## 📂 Repository Structure
 ```text
